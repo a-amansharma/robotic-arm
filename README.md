@@ -58,19 +58,19 @@ The system demonstrates real-time robotic manipulation, joint control, servo syn
 
 | Component              | Quantity | Approx. Cost (INR) |
 | ---------------------- | -------- | ------------------ |
-| ESP32 Dev Module       | 1        | ₹350               |
+| ESP32 Dev Module       | 1        | ₹270               |
 | PCA9685 Servo Driver   | 1        | ₹250               |
-| MG996R Servo Motors    | 4        | ₹1,600             |
+| MG996R Servo Motors    | 4        | ₹1,200             |
 | MG90S Servo Motors     | 2        | ₹300               |
-| Potentiometers         | 6        | ₹300               |
-| Battery Pack           | 1        | ₹800               |
+| Potentiometers         | 6        | ₹70                |
+| Battery Pack           | 1        | ₹1300              |
 | Wiring and Connectors  | -        | ₹300               |
-| Mechanical Structure   | -        | ₹3,000             |
-| Miscellaneous Hardware | -        | ₹1,000             |
+| Mechanical Structure   | -        | ₹200               |
+| Miscellaneous Hardware | -        | ₹800               |
 
 ### Total Estimated Cost
 
-**₹8,000 – ₹10,000 INR**
+**₹4,000 – ₹5,000 INR**
 
 The final cost depends on the servo brand, structural material, fabrication method, battery choice, and mechanical design.
 
